@@ -1,5 +1,5 @@
 import React from "react";
-import VisitParcel from "./visitsParcel";
+import VisitParcel from "./visits-parcel";
 import { BrowserRouter } from "react-router-dom";
 
 import { makeStyles, createStyles, Theme } from "@material-ui/core/styles";
