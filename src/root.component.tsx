@@ -29,5 +29,5 @@ export default function Root(props: RootProps) {
 }
 
 type RootProps = {
-  patientUuid?: string;
+  patientUuid: string;
 };

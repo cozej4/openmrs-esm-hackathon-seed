@@ -8,6 +8,6 @@ describe(`<Root />`, () => {
   });
 
   it(`renders Root without dying`, () => {
-    render(<Root />);
+    render(<Root patientUuid={"test"} />);
   });
 });
